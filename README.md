@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Siggins
-- 👀 I’m interested in AWS, Data Engineering, and Medical Research
-- 🌱 I’m currently learning Hadoop, Spark, and Kafka and how to intergrate them  with Python
+- 👀 I’m interested in Medical Stats, Healthcare Analytics, and Biostatisitics.
+- 🌱 I’m currently learning ways to improve some past projects and so MLOps.
 - 📫 How to reach me siggins01@outlook.com
 
 <!---
