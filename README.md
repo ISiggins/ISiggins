@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Siggins
-- 👀 I’m interested in Medical Stats, Healthcare Analytics, and Biostatisitics.
-- 🌱 I’m currently learning ways to improve some past projects and so MLOps.
+- 👀 I’m interested in Medical Stats, Healthcare Analytics, and Biostatistics.
+- 🌱 I’m currently learning ways to improve some past projects and some ways to incorperate MLOps.
 - 📫 How to reach me siggins01@outlook.com
 
 <!---
